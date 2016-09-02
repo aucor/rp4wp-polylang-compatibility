@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Related Posts for WordPress - Polylang Compatibility
-Plugin URI: https://github.com/aucor/
+Plugin URI: https://github.com/aucor/rp4wp-polylang-compatibility
 Version: 1.0
 Author: Aucor Oy
 Author URI: http://www.aucor.fi/
