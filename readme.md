@@ -54,10 +54,3 @@ There's still posts that are linked to wrong languages:
 No support for multilingual stop words
 
  * Make a PR!
-
-
-## Changelog
-
-### 1.0 - Github launch
-
- * It's working
