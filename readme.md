@@ -25,6 +25,23 @@ How-to use:
  * Install and activate this add-on
  * Done
 
+**Composer:**
+```
+$ composer aucor/rp4wp-polylang-compatibility
+```
+**With composer.json:**
+```
+{
+  "require": {
+    "aucor/rp4wp-polylang-compatibility": "*"
+  },
+  "extra": {
+    "installer-paths": {
+      "htdocs/wp-content/plugins/{$name}/": ["type:wordpress-plugin"]
+    }
+  }
+}
+```
 
 ## Issues and feature whishlist
 
