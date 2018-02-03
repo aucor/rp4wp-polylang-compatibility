@@ -2,9 +2,9 @@
 /*
 Plugin Name: Related Posts for WordPress - Polylang Compatibility
 Plugin URI: https://github.com/aucor/rp4wp-polylang-compatibility
-Version: 1.1
+Version: 1.2
 Author: Aucor Oy
-Author URI: http://www.aucor.fi/
+Author URI: https://www.aucor.fi
 Description: Add Polylang support to Related Posts for WordPress Premium
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
