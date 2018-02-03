@@ -1,7 +1,7 @@
 {
 	"name": "aucor/rp4wp-polylang-compatibility",
 	"description": "Related Posts for WordPress - Polylang Compatibility",
-	"license": "GPLv2+",
+	"license": "GPL-2.0-or-later",
 	"type": "wordpress-plugin",
 	"homepage": "https://github.com/aucor/rp4wp-polylang-compatibility",
 	"authors": [
